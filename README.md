@@ -25,4 +25,8 @@ Context Store, React ile geliştirilmiş bir alışveriş uygulamasıdır. Kulla
 <h1>Context</h1>
 
 - **BasketContext**: Sepetle ilgili işlemleri yönetir.
-- **ProductContext**: Ürünlerle ilgili veriyi ve filtrelemeyi yönetir
+- **ProductContext**: Ürünlerle ilgili veriyi ve filtrelemeyi yönetir.
+
+<h1>DEMO</h1>
+
+![](demo.gif)
